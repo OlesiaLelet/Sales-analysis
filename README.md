@@ -101,4 +101,4 @@
 
 ## 👤 Автор
 
-Ольга Лелет ([@OlesiaLelet](https://github.com/OlesiaLelet))
+Олеся Лелет ([@OlesiaLelet](https://github.com/OlesiaLelet))
